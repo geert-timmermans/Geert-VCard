@@ -30,7 +30,7 @@ h3{
 }
 
 .container{
-    background-color: #3597E8;
+    background-image: linear-gradient(#3597E8, #5ECFD1, #E8E8E8);
     width: 60%; 
     height: 70%;
     margin: auto;
